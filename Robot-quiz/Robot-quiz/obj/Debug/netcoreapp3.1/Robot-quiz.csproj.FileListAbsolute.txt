@@ -1,0 +1,12 @@
+/Users/sofiasilva/Projects/Robot-quiz/Robot-quiz/bin/Debug/netcoreapp3.1/Robot-quiz.deps.json
+/Users/sofiasilva/Projects/Robot-quiz/Robot-quiz/bin/Debug/netcoreapp3.1/Robot-quiz.runtimeconfig.json
+/Users/sofiasilva/Projects/Robot-quiz/Robot-quiz/bin/Debug/netcoreapp3.1/Robot-quiz.runtimeconfig.dev.json
+/Users/sofiasilva/Projects/Robot-quiz/Robot-quiz/bin/Debug/netcoreapp3.1/Robot-quiz.dll
+/Users/sofiasilva/Projects/Robot-quiz/Robot-quiz/bin/Debug/netcoreapp3.1/Robot-quiz.pdb
+/Users/sofiasilva/Projects/Robot-quiz/Robot-quiz/obj/Debug/netcoreapp3.1/Robot-quiz.csprojAssemblyReference.cache
+/Users/sofiasilva/Projects/Robot-quiz/Robot-quiz/obj/Debug/netcoreapp3.1/Robot-quiz.AssemblyInfoInputs.cache
+/Users/sofiasilva/Projects/Robot-quiz/Robot-quiz/obj/Debug/netcoreapp3.1/Robot-quiz.AssemblyInfo.cs
+/Users/sofiasilva/Projects/Robot-quiz/Robot-quiz/obj/Debug/netcoreapp3.1/Robot-quiz.csproj.CoreCompileInputs.cache
+/Users/sofiasilva/Projects/Robot-quiz/Robot-quiz/obj/Debug/netcoreapp3.1/Robot-quiz.dll
+/Users/sofiasilva/Projects/Robot-quiz/Robot-quiz/obj/Debug/netcoreapp3.1/Robot-quiz.pdb
+/Users/sofiasilva/Projects/Robot-quiz/Robot-quiz/obj/Debug/netcoreapp3.1/Robot-quiz.genruntimeconfig.cache
